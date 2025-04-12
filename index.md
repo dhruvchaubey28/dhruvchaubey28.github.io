@@ -1,4 +1,5 @@
 **Guide to Kubernetes for AWS Container Orchestration: 5 Essential Commands**
+![Kubernetes Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png)
 
 **Introduction**
 **Kubernetes (K8s)** is the most popular container orchestration tool, allowing you to automate deployment, scaling, and management of containerized applications. AWS supports Kubernetes through Amazon Elastic Kubernetes Service (EKS), making it easier to run K8s clusters in the cloud.
